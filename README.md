@@ -16,4 +16,4 @@ Software:
 
 Python 3.x
 Visual Studio Code
-Required Python packages (listed in requirements.txt)
+Required Python packages 
